@@ -1,4 +1,4 @@
-# Aura3.0: AI-Powered Mental Health Support on Sonic 🧠⛓️
+<!-- # Aura3.0: AI-Powered Mental Health Support on Sonic 🧠⛓️
 
 [![Sonic Token](https://img.shields.io/badge/Sonic-Integration-purple.svg)]()
 [![Zerepy](https://img.shields.io/badge/Zerepy-AI_Agent-blue.svg)]()
@@ -242,4 +242,4 @@ MIT License - see [LICENSE](LICENSE)
 
 <p align="center">
 Built with ❤️ on Sonic Blaze Testnet and Zerepy for better mental health
-</p>
+</p> -->
